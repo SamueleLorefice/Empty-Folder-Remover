@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empty folder remover", "Empty folder remover\Empty folder remover.csproj", "{36903F22-E9ED-49B2-811A-E64306B5908F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36903F22-E9ED-49B2-811A-E64306B5908F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36903F22-E9ED-49B2-811A-E64306B5908F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36903F22-E9ED-49B2-811A-E64306B5908F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36903F22-E9ED-49B2-811A-E64306B5908F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D877562-7B1B-4D10-B6F1-DFE492445807}
+	EndGlobalSection
+EndGlobal
